@@ -1,9 +1,9 @@
-# Cupertino Stor
+# Cupertino App Stor
 
-Online Stor
+Complete Project
 
 ## ScreenShot
 
-<img src = "https://user-images.githubusercontent.com/122794880/213918673-813a2358-0fca-4b5a-a6e2-f36f1ec151b6.jpeg" height="500px"/> |
-<img src = "https://user-images.githubusercontent.com/122794880/213918678-2eed952b-fb45-4796-b45b-9e4d86d2bf55.jpeg" height="500px"/> |
-<img src = "https://user-images.githubusercontent.com/122794880/213918707-3950642b-417c-40fe-bde0-15da2a07077f.jpeg" height="500px"/>
+<img src = "https://github.com/DhvanitKholiya/CupartinoAppStore/assets/121153074/13be9c1b-0c88-49fa-9003-f4502712bbc9" height="500px"/> |
+<img src = "https://github.com/DhvanitKholiya/CupartinoAppStore/assets/121153074/644636c6-07fe-4000-afb8-92ce5d64dc48" height="500px"/> |
+<img src = "https://github.com/DhvanitKholiya/CupartinoAppStore/assets/121153074/dbfdfc47-a7f5-4503-9588-60a62179fc3e" height="500px"/> 
